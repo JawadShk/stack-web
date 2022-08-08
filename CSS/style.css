@@ -1,25 +1,7 @@
-/* #logo-img{
-    margin-left: 100px;
-} */
-.banner{
-    color: #fff;
-    overflow: hidden;
-    position: relative;
-    background: url(../images/hero-bg.png);
-    min-height: 100vh;
+#img-logo{
+    max-width: 100%;
+    height: auto;
 }
-
-.img-fluid{
-    display:flex;
-    margin-left: 350px;
-}
-.banner-title p{
-    font-size: 40px;
-    font-weight: 800px;
-    color: #000;
-}
-.aboutus-data h2{
-    margin-top: 150px;
-    font-weight: 700;
-    font-size: 40px;
+.nav-link{
+    text-transform: uppercase;
 }
