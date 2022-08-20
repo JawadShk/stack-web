@@ -1,3 +1,3 @@
 # stack-web
 https://jawadshk.github.io/stack-web/
-![STACK WEBSITE](https://user-images.githubusercontent.com/107758531/183951836-170be297-3d69-4334-ae39-498e5ff1da0c.png)
+![image](https://user-images.githubusercontent.com/107758531/185732376-605fe627-db85-4b47-bf2b-0718b8922b14.png)
