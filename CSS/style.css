@@ -116,6 +116,10 @@
     font-weight: 500;
     line-height: 1.6;
 }
+.test-image{
+   border-radius: 50%;
+   width: 20% !important;
+}
 .testimonials-data img:hover{
     transform: scale(1.3);
 }
@@ -140,7 +144,6 @@
 }
 /* contact form  */
 
-/* footer  */
 .footer{
     background-color: #000;
 }
@@ -184,3 +187,4 @@
         margin-bottom: 0px;
      } 
 }
+/* footer  */
